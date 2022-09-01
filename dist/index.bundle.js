@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("index.js");const e="index";document.querySelector(".root").innerHTML=e,document.querySelector(".testBtn").onclick=()=>{console.log("11111111")}})();
